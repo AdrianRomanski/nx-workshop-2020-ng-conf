@@ -7,6 +7,7 @@ We're going to be using [Nx](https://nx.dev/) and some of its plugins to acceler
 
 Some of the things you'll learn:
 
+
 - Generating a pristine **Nx workspace**
 - Generating frontend Angular **apps** and **backend APIs** inside your workspace, with pre-configured proxies
 - Creating **shared libs** for re-using code
